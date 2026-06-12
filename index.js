@@ -22,7 +22,7 @@ import staffRoutes from "./routes/Staffs/AllStaff.js";
 // import HomeWorkRoutes from "./routes/HomeworkRoutes.js"
 import eventRoutes from "./routes/EventRoutes.js";
 import noticeRoutes from "./routes/Noticeroute.js";
-import HomeWorkRoutes from "./routes/HomeWorkRoutes.js";
+import HomeWorkRoutes from "./routes/HomeworkRoutes.js";
 import HomeWorkSubmissionRoutes from "./routes/homeworkSubmissionRoutes.js";
 import certificateRoutes from "./routes/certificateRoutes.js";
 import OnlineClassRoutes from './routes/OnlineClassRoutes.js'
