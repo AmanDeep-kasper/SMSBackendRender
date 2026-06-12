@@ -1,5 +1,5 @@
 import School from "../models/SchoolModel.js";
-import Role from "../models/roleModel.js";
+import Role from "../models/rolemodel.js";
 
 const defaultRoles = [
     {
